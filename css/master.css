@@ -85,7 +85,7 @@ body{
     text-align: right;
     padding-left: 0;
     padding-right: 20%;
-    font-size: 15px;      /*حجم الخط للبار العلوي*/
+    font-size: 10px;      /*حجم الخط للبار العلوي*/
 }
 
 .header-area .links li {
